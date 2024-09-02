@@ -2,17 +2,16 @@
 
 ## 📚 Table of Contents
 - [Overview](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#overview-)
-- [Features](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#features)
-- [Installation](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#installation)
-- [Usage](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#usage)
-- [Architecture](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#architecture)
-- [Security](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#security)
-- [Monitoring and Logging](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#monitoring-and-logging)
-- [Customization](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#customization)
-- [Contributing](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#contributing)
-- [License](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#license)
-- [Contact](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#contact)
-
+- [Features](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#features-)
+- [Installation](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#installation-)
+- [Usage](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#usage-)
+- [Architecture](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#architecture-)
+- [Security](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#security-)
+- [Monitoring and Logging](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#monitoring-and-logging-)
+- [Customization](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#customization-)
+- [Contributing](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#contributing-)
+- [License](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#license-)
+- [Contact](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#contact-)
 
 ## Overview 🌐
 This project showcases a customizable portfolio website template hosted on AWS. The template is designed to be flexible and adaptable for various professional profiles, with a focus on a freelance photographer's portfolio. It leverages AWS services like EC2, Elastic Load Balancing (ELB), and Auto Scaling to ensure high availability and scalability.
