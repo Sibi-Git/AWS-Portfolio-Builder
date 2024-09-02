@@ -1,7 +1,7 @@
 # Portfolio Website Template with AWS Hosting 🎨
 
 ## 📚 Table of Contents
-- [Overview](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#overview)
+- [Overview](https://github.com/Sibi-Git/AWS-Portfolio-Builder/tree/main?tab=readme-ov-file#overview-)
 - [Features](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#features)
 - [Installation](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#installation)
 - [Usage](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#usage)
