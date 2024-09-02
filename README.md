@@ -78,8 +78,14 @@ Users can customize various parts of the code:
 - **`custom.js`:** Add interactivity, handle animations, and manage client-side logic.
 
 For example, you can change the title of the website in `index.html`:
+
 ```html
 <title>Sibi Marappan - Portfolio</title>
+```
+
+And modify the main heading:
+
+```html
 <h1>Hello, I'm Sibi Marappan</h1>
 ```
 
