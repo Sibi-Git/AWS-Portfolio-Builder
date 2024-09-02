@@ -1,18 +1,18 @@
 # Portfolio Website Template with AWS Hosting 🎨
 
 ## 📚 Table of Contents
-## 📚 Table of Contents
-- [Overview](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#overview-)
-- [Features](#features-✨)
-- [Installation](#installation-🛠️)
-- [Usage](#usage-💻)
-- [Architecture](#architecture-🏗️)
-- [Security](#security-🔒)
-- [Monitoring and Logging](#monitoring-and-logging-📊)
-- [Customization](#customization-🎨)
-- [Contributing](#contributing-🤝)
-- [License](#license-📄)
-- [Contact](#contact-📧)
+- [Overview](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#overview)
+- [Features](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#features)
+- [Installation](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#installation)
+- [Usage](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#usage)
+- [Architecture](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#architecture)
+- [Security](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#security)
+- [Monitoring and Logging](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#monitoring-and-logging)
+- [Customization](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#customization)
+- [Contributing](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#contributing)
+- [License](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#license)
+- [Contact](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#contact)
+
 
 ## Overview 🌐
 This project showcases a customizable portfolio website template hosted on AWS. The template is designed to be flexible and adaptable for various professional profiles, with a focus on a freelance photographer's portfolio. It leverages AWS services like EC2, Elastic Load Balancing (ELB), and Auto Scaling to ensure high availability and scalability.
