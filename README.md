@@ -2,7 +2,7 @@
 
 ## 📚 Table of Contents
 ## 📚 Table of Contents
-- [Overview]([#overview-🌐](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#overview-))
+- [Overview](https://github.com/Sibi-Git/AWS-Portfolio-Builder/blob/main/README.md#overview-)
 - [Features](#features-✨)
 - [Installation](#installation-🛠️)
 - [Usage](#usage-💻)
