@@ -1,4 +1,4 @@
-# Portfolio Builder with AWS Hosting 🎨
+# Portfolio Website Template with AWS Hosting 🎨
 
 ## 📚 Table of Contents
 - [Overview](#overview)
@@ -8,6 +8,7 @@
 - [Architecture](#architecture)
 - [Security](#security)
 - [Monitoring and Logging](#monitoring-and-logging)
+- [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -45,6 +46,7 @@ This project showcases a customizable portfolio website template hosted on AWS. 
 5. **Monitor and Optimize:**
    - Use CloudWatch to monitor the performance and health of your instances.
    - Adjust Auto Scaling and Load Balancing settings as needed.
+
 ## Usage 💻
 ### Customize Content:
 - Update the HTML, CSS, and JS files in the `index.html`, `style.css`, and `custom.js` files to personalize the template.
@@ -68,6 +70,18 @@ This project showcases a customizable portfolio website template hosted on AWS. 
 - **CloudWatch:** Set up CloudWatch to monitor CPU usage, memory, disk I/O, and network traffic.
 - **AWS CloudTrail:** Use CloudTrail to log all API requests and account activity, providing an audit trail for security analysis and troubleshooting.
 - **Logs:** Store application and server logs in CloudWatch Logs or an S3 bucket for long-term storage and analysis.
+
+## Customization 🎨
+Users can customize various parts of the code:
+- **`index.html`:** Modify the content and structure of the website. Customize sections like Home, About, Services, Portfolio, Testimonials, and Contact.
+- **`style.css`:** Adjust the styling, including colors, fonts, and layouts, to match your branding.
+- **`custom.js`:** Add interactivity, handle animations, and manage client-side logic.
+
+For example, you can change the title of the website in `index.html`:
+```html
+<title>Sibi Marappan - Portfolio</title>
+<h1>Hello, I'm Sibi Marappan</h1>
+```
 
 ## Contributing 🤝
 Contributions are welcome! Feel free to submit issues or pull requests to improve the template.
