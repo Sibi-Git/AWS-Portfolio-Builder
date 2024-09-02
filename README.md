@@ -1,4 +1,4 @@
-# Portfolio Website Template with AWS Hosting 🎨
+# Portfolio Builder with AWS Hosting 🎨
 
 ## 📚 Table of Contents
 - [Overview](#overview)
