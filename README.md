@@ -1,17 +1,18 @@
 # Portfolio Website Template with AWS Hosting 🎨
 
 ## 📚 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Security](#security)
-- [Monitoring and Logging](#monitoring-and-logging)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 📚 Table of Contents
+- [Overview](#overview-🌐)
+- [Features](#features-✨)
+- [Installation](#installation-🛠️)
+- [Usage](#usage-💻)
+- [Architecture](#architecture-🏗️)
+- [Security](#security-🔒)
+- [Monitoring and Logging](#monitoring-and-logging-📊)
+- [Customization](#customization-🎨)
+- [Contributing](#contributing-🤝)
+- [License](#license-📄)
+- [Contact](#contact-📧)
 
 ## Overview 🌐
 This project showcases a customizable portfolio website template hosted on AWS. The template is designed to be flexible and adaptable for various professional profiles, with a focus on a freelance photographer's portfolio. It leverages AWS services like EC2, Elastic Load Balancing (ELB), and Auto Scaling to ensure high availability and scalability.
